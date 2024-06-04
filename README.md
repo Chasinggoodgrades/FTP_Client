@@ -44,21 +44,9 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/java-ftp-client-aws-proftpd.git
+   git clone https://github.com/Chasinggoodgrades/FTP_Client
    ```
-
-2. Navigate to the project directory:
-
-   ```shell
-   cd java-ftp-client-aws-proftpd
-   ```
-
-3. Build and compile the Java project as needed:
-
-   ```shell
-   javac YourJavaFile.java
-   ```
-
+   
 ## Configuration
 
 Before using the FTP Client, you need to configure the following:
@@ -83,7 +71,7 @@ Before using the FTP Client, you need to configure the following:
 1. Run the Java FTP Client:
 
    ```shell
-   java YourJavaFile
+   java FXMLDisplayApp
    ```
 
 2. Use the FTP Client to perform various operations on the FTP server. You will be prompted for authentication and file operations.
